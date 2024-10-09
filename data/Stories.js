@@ -6,7 +6,8 @@ const Stories = [
     review: "This is a fantastic service! I had a wonderful experience and Supported Team.",
     photoUrl:
       "https://res.cloudinary.com/dlruguadi/image/upload/v1703186026/samples/upscale-face-1.jpg",
-      logo:'https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg'
+      logo:'https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg',
+      hike:'150%'
   },
   {
     id: 2,
@@ -16,7 +17,8 @@ const Stories = [
       "Great platform! It has made my travel bookings so much easier and hassle-free.",
     photoUrl:
       "https://res.cloudinary.com/dlruguadi/image/upload/v1703186026/samples/upscale-face-1.jpg",
-      logo:'https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg'
+      logo:'https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg',
+      hike:'100%'
 
   },
   {
@@ -27,7 +29,8 @@ const Stories = [
       "Amazing customer service. I received quick support and had all my questions answered.",
     photoUrl:
       "https://res.cloudinary.com/dlruguadi/image/upload/v1703186026/samples/upscale-face-1.jpg",
-      logo:'https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg'
+      logo:'https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg',
+      hike:'219%'
 
   },
   {
@@ -38,7 +41,8 @@ const Stories = [
       "The user interface is clean and easy to navigate. Booking tickets has never been this simple!",
     photoUrl:
       "https://res.cloudinary.com/dlruguadi/image/upload/v1703186026/samples/upscale-face-1.jpg",
-      logo:'https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg'
+      logo:'https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg',
+      hike:'120%',
 
   },
   {
@@ -49,7 +53,8 @@ const Stories = [
       "Very reliable and efficient. I always book my tickets here and have never faced any issues.",
     photoUrl:
       "https://res.cloudinary.com/dlruguadi/image/upload/v1703186026/samples/upscale-face-1.jpg",
-      logo:'https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg'
+      logo:'https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg',
+      hike:'150%',
 
   },
 ];
