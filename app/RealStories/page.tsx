@@ -1,9 +1,9 @@
-// components/ImageSlider.js
+
 'use client';
 import { useState } from 'react';
-import Stories from 'data/Stories'; // Adjust the path as necessary
+import Stories from 'data/Stories'; 
 
-export default function ImageSlider() {
+export default function Page() {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   const nextImage = () => {
@@ -32,7 +32,7 @@ export default function ImageSlider() {
           <h1 className='heading'>Real Stories, Real Success</h1>
           <p className='para'>Discover what our learners say about us</p>
         </div>
-        {/* Statistics Section */}
+       
        
         <div className='right2-container'>
           <button onClick={prevImage} className="nav-button prev">&#10094;</button>
